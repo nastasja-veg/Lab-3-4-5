@@ -117,8 +117,6 @@
     bottom: 200px;
 }
 .pic-3{
-    height: 100px;
-    width: 100px;
     position: fixed;
     bottom: 0;
     right: 0;
@@ -133,5 +131,6 @@ h1{
     font-size: 30px;
 
 }
+
 
 
